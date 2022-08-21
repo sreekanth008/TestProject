@@ -3,7 +3,7 @@
 To run the test pleaase use below commands:
 npx wdio run wdio.conf.js
 
-if does not have matching chrome browser version please add this in wdio.conf.js and run
+if we do not have matching chrome browser version please add this in wdio.conf.js and run
 
         logFileName: 'wdio-chromedriver.log', // default
         outputDir: 'driver-logs', // overwrites the config.outputDir
