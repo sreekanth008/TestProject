@@ -19,7 +19,7 @@ Regarding the issue :
 
 >>> problem on the https://osa-web.tcg.co.uk/qatest page
 
-organisationId is not passed in the path params of the end point. I have sent the screenshots by highlighting it. If we pass the organisationId , It will work
+organisationId is not passed in the path params of the end point hence status code-404 is returned. I have sent the screenshots by highlighting it. If we pass the organisationId , It will work
 
 Bug title : News page is not loading due to organisationId issue in the path params of the end point
 
